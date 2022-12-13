@@ -47,6 +47,11 @@
 		<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white" />
 		<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 		<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=GitLab&logoColor=#FC6D26" />
+		<br>
+		<img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=#0052CC" />
+		<img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=Confluence&logoColor=#172B4D" />
+		<img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=#0052CC" />
+		<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=#F24E1E" />
 	</div>
 </div>
 <br>
