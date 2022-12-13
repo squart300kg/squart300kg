@@ -47,8 +47,18 @@
 		<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white" />
 		<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 		<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=GitLab&logoColor=#FC6D26" />
+	</div>
 </div>
+<br>
+<br>
+<div align=center>
+	<h1>🎨 Personal Projects 🎨</h1>
+	<h3>✨ 점진적 과부하 ✨</h3>
+	<p>프로젝트 개요</p>
+	<p>운동을 날마다 기록하고 진행 운동 총 량을 그래프로 확인할 수 있는 서비스</p>
+	<img src="https://user-images.githubusercontent.com/57611838/207349779-385688f2-89c6-4ab5-bd66-e2420ca06ee3.png" ref="https://www.naver.com" />
 </div>
+<br>
 <br>
 <div align=center>
 	<br>
