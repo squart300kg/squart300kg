@@ -32,6 +32,7 @@
 		<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white" />
 		<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white" />
 		<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+		<p>Java</p>
 		<br>
 	</div>
 </div>
@@ -52,6 +53,7 @@
 		<img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=Confluence&logoColor=#172B4D" />
 		<img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=#0052CC" />
 		<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=#F24E1E" />
+		<p>Zeplin</p>
 	</div>
 </div>
 <br>
