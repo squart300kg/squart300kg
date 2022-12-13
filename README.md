@@ -23,21 +23,33 @@
 	<h3>✨ Etc ✨</h3>
 	<p>Firebase, AWS, Kakao, Naver, Facebook, SecurePreference, Lottie, Skeleton, MPChart</p>
 </div>
-
+<br>
 <br>
 <div align=center>
-	<p>🛠 Tools 🛠</p>
+	<h1>📚 Available Language 📚</h1>
+	<div align=center>
+		<img src="https://img.shields.io/badge/Kotlin-37F52FF?style=flat&logo=Kotlin&logoColor=white" />
+		<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white" />
+		<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white" />
+		<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+		<br>
+	</div>
 </div>
+<br>
+<br>
 <div align=center>
-	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
-	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
-	<br>
-	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
-	<img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white" />
-	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
-	<img src="https://img.shields.io/badge/SVN-809CC9?style=flat&logo=Subversion&logoColor=white" />
-	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+	<h1>🛠 Available Tools 🛠</h1>
+	<div align=center>
+		<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=Android%20Studio&logoColor=white" />
+		<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
+		<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white" />
+		<br>
+		<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white" />
+		<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+		<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=GitLab&logoColor=#FC6D26" />
 </div>
+</div>
+
 <br>
 <div align=center>
 	<p>🎨 SNS & Portfolio 🎨</p>
