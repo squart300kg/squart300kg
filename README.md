@@ -26,7 +26,7 @@
 <br>
 <br>
 <div align=center>
-	<h1>📚 Available Language 📚</h1>
+	<h1>📚 Interesting Language 📚</h1>
 	<div align=center>
 		<img src="https://img.shields.io/badge/Kotlin-37F52FF?style=flat&logo=Kotlin&logoColor=white" />
 		<img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white" />
