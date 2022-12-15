@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20To%20SSY's%20Git!&fontSize=80" />
 </div>
 <div align=center>
-	<h1>📚 Available AOS Tech 📚</h1>
+	<h1>📚 Interesting AOS Tech 📚</h1>
 	<h3>✨ Architecture ✨</h3>
 	<p>MVC, MVP, MVVM</p>
 	<h3>✨ JetPack ✨</h3>
