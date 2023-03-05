@@ -7,7 +7,7 @@
 	<h3>✨ Architecture ✨</h3>
 	<p>MVC, MVP, MVVM</p>
 	<h3>✨ JetPack ✨</h3>
-	<p>ViewModel, DataBinding, Paging, Lifecycle, Room, ConstrantLayout</p>
+	<p>Compose, ViewModel, DataBinding, Paging, Lifecycle, Room, ConstrantLayout</p>
 	<h3>✨ DI ✨</h3>
 	<p>Koin, DaggerHilt</p>
 	<h3>✨ Asyc & Reactive ✨</h3>
