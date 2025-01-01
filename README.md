@@ -22,12 +22,4 @@
 </div>
 <br>
 <br>
-<div align=center>
-	<br>
-	<br>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=squart300kg&layout=compact">
-	<br>
-	<img src="https://github-readme-stats.vercel.app/api?username=squart300kg&show_icons=true">
-	<br>
-</div>
 
