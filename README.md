@@ -1,6 +1,6 @@
 <div align=start>
 
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20To%20SSY's%20Git!&fontSize=80" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome!&fontSize=80" />
 </div>
 <div align=start>
 	<h1>Skills</h1>
